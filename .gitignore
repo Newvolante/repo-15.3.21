@@ -8,3 +8,5 @@ docs/
 node_modules/
 
 # this is a comment added to test branching
+
+# this is a change made in testBranch
